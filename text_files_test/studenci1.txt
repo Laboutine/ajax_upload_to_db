@@ -1,0 +1,8 @@
+1; adam; kazmierczak; statystyka; 3; 2017-05-18
+2; marek;jablonski; statystyka; 3;  2017-05-18
+3; anna; zalewska; statystyka; 4;  2017-05-05
+4; andrzej; wazny ;statystyka;5;  2017-05-05
+5; justyna; kaja; statystyka; 5;  2017-05-05
+6; angelika; kolas; statystyka; 4.5;  2017-05-05
+7; kamil; boler; statystyka; 3.5;  2017-05-05
+8; natalia; jaki; statystyka; 3;  2017-05-05

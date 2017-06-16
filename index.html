@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html lang="pl">
+    <head>
+      <title>Grades online</title>
+      <meta charset="utf-8" />
+	  <link rel="stylesheet" href="style.css" />
+      <script src="dist/jstz.min.js"></script>
+      <script src="upload.js"></script>
+    </head>
+
+    <body>
+      <div id="page">
+       
+	   <h1>Oceny z egzaminu</h1>
+
+		  <form id="upload_form" enctype="multipart/form-data" method="post" class="upload_form">
+  
+		    <input type="file" name="file1" id="file1" class="button"/>
+            </br></br>
+		    <input type="button" value="Upload File" class="button" onclick="uploadFile()">
+  
+            <div id="status"></div>
+  
+          </form>
+
+        <h2 id="strefa"></h2>
+        <h2 id="lang"></h2>
+		
+
+      </div>
+    </body>
+  </html>

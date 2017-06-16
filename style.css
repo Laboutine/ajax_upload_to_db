@@ -1,0 +1,92 @@
+#page
+{
+	width:900px;
+	min-height:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+#status
+{
+	float: left; 
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+
+#upload_form
+{
+	float: left; 
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+#strefa
+{
+	float: left; 
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+table {
+     width: 100%;
+    border-collapse: collapse;
+}
+
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:nth-child(odd){background-color: white;}
+tr:hover {background-color: #ddd;}
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #008CBA;
+    color: white;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+h1 {
+	
+    border: 2px solid black;
+    border-radius: 5px;
+	text-align: center;
+	width: 350px;
+	background-color: lightgrey;
+	margin-top:0;
+}
+
+html, body {
+		
+		padding:5px;
+		height:100%;
+		background-color: #FFEBCD;
+	
+	}
+.button {
+	
+    background-color: #008CBA;
+    border: 2px solid #008CBA;
+    color: white;
+    padding: 12px 22px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 8px;
+	transition-duration: 0.4s;
+}
+
+.button:hover {
+    
+	background-color: white;
+    color: blue;
+    border: 2px solid #008CBA;
+	cursor: pointer;
+}

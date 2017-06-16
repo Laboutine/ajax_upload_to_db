@@ -1,0 +1,8 @@
+1;Kasper;Przenzi;Analiza funkcjonalna;4.5;20-05-17
+2;Adam;Morawski;Analiza funkcjonalna;3;20-05-17
+3;Patrycja;Senko;Analiza funkcjonalna;5;20-05-17
+4;Andrzej; Wazny ;Analiza funkcjonalna;5;  2017-05-05
+5;Justyna; Kaja; Analiza funkcjonalna; 5;  2017-05-05
+6;Angelika; Kolas; Analiza funkcjonalna; 4.5;  2017-05-05
+7;Kamil; Boler; Analiza funkcjonalna; 3.5;  2017-05-05
+8;Natalia; Jaki;Analiza funkcjonalna; 2;  2017-05-05
