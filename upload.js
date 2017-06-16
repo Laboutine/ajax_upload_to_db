@@ -23,11 +23,10 @@ function completeHandler(event){
 
 function errorHandler(event){
 	_("status").innerHTML = "Upload Failed";
-
 }
 //pobieranie danych o strefie czasowej
 window.onload=function(){
-var tz = jstz.determine();
-			var strefa = tz.name();
-			_("strefa").innerHTML="Strefa czasowa: "+strefa;
+  var tz = jstz.determine();
+  var strefa = tz.name();
+  _("strefa").innerHTML="Strefa czasowa: "+strefa;
 };
